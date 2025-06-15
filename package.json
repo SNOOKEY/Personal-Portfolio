@@ -1,0 +1,39 @@
+your-portfolio/
+├── public/
+│   ├── index.html
+│   ├── favicon.ico
+│   └── assets/
+│       └── images/
+├── src/
+│   ├── assets/
+│   │   └── images/
+│   ├── components/
+│   │   ├── Navbar.js
+│   │   ├── Footer.js
+│   │   ├── Dashboard/
+│   │   │   ├── Dashboard.js
+│   │   │   ├── GlassCard.js
+│   │   │   └── Widget.js
+│   │   ├── Projects/
+│   │   │   ├── Projects.js
+│   │   │   └── ProjectCard.js
+│   │   ├── Skills/
+│   │   │   ├── Skills.js
+│   │   │   └── SkillBar.js
+│   │   ├── About/
+│   │   │   └── About.js
+│   │   ├── Contact/
+│   │   │   └── Contact.js
+│   │   └── ...
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── ProjectsPage.js
+│   │   └── ...
+│   ├── styles/
+│   │   ├── glassmorphism.css
+│   │   └── custom.css
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+├── package.json
+└── README.md
